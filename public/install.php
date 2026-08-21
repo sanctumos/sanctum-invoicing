@@ -2,8 +2,8 @@
 /**
  * Sanctum Invoicing — first-boot install stub.
  *
- * Refuses to run against an existing non-empty database so live DSC/prod
- * DBs cannot be reseeded by opening /install.php.
+ * Refuses to run against an existing non-empty database so live
+ * production DBs cannot be reseeded by opening /install.php.
  */
 declare(strict_types=1);
 
