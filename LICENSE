@@ -1,0 +1,41 @@
+DUAL LICENSE NOTICE
+
+This project is distributed under a dual license structure:
+
+1. SOFTWARE CODE (PHP, JavaScript, CSS, HTML, SQL, configuration files, etc.)
+   Licensed under: GNU Affero General Public License v3.0 (AGPL-3.0)
+   See: LICENSE-AGPLv3
+
+2. DOCUMENTATION AND OTHER CONTENT (README files, documentation, images, etc.)
+   Licensed under: Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0)
+   See: LICENSE-CC-BY-SA
+
+LICENSE APPLICABILITY:
+
+SOFTWARE CODE includes but is not limited to:
+- All PHP files (*.php)
+- All JavaScript files (*.js)
+- All CSS files (*.css)
+- All HTML files (*.html)
+- All SQL files (*.sql)
+- Configuration files (*.json, *.xml, *.ini, etc.)
+- Database files (*.db, *.sqlite)
+- Test files (*.php, test_*.php)
+- API specification files (openapi.json)
+- Build and deployment scripts
+
+DOCUMENTATION AND OTHER CONTENT includes but is not limited to:
+- README files (*.md)
+- Documentation files (*.md)
+- Images and graphics
+- Text files containing documentation
+- License files themselves
+
+For the complete terms of each license, please refer to the respective license files:
+- LICENSE-AGPLv3 (for software code)
+- LICENSE-CC-BY-SA (for documentation and other content)
+
+This dual licensing approach ensures that:
+- Software code remains free and open source under copyleft terms (AGPL-3.0)
+- Documentation and content can be freely shared and adapted (CC-BY-SA-4.0)
+- Both licenses require attribution and sharing of modifications 
