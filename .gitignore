@@ -10,3 +10,4 @@
 /tools/phpunit.phar
 /tools/e2e/test-results/
 /tools/e2e/playwright-report/
+.otto-githooks-installed
