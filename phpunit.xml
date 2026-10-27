@@ -46,5 +46,6 @@
         <env name="SQUARE_WEBHOOK_SIGNATURE_KEY" value="whsec_test_key" force="true"/>
         <env name="TASKS_DSC_BASE_URL" value="https://tasks.example.test" force="true"/>
         <env name="TASKS_DSC_OTTOVERNAL_API_KEY" value="tasks-test-key" force="true"/>
+        <env name="TASKS_PSF_PROJECT_ID" value="" force="true"/>
     </php>
 </phpunit>
